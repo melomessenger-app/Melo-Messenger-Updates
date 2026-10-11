@@ -21,7 +21,7 @@ It's a **beta**: it works, and it's still being improved.
 - **Send files and pictures** straight from your PC to your friend's; they're never stored on a server
 - **Nudge** a friend to shake their window, or send a **wink** that plays across the chat
 - Set your **status**, a personal message, a display picture, and show what you're playing or listening to
-- Choose from **eighteen themes**, light and dark
+- Choose from **twenty-three themes**, light and dark
 - Look back through your **message history** and search it
 
 | | |
@@ -31,7 +31,7 @@ It's a **beta**: it works, and it's still being improved.
 
 ![The Sky theme](images/theme-sky.png)
 
-<p align="center">One of the eighteen themes: Sky</p>
+<p align="center">One of the twenty-three themes: Sky</p>
 
 ![The emoticons](images/emoticons.png)
 
